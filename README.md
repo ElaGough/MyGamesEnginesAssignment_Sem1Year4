@@ -7,6 +7,6 @@
 ##### it uses lerp method to scale the objects
 
 ### three main C# scripts are used:
-###### AudioGetSpectrum:
+###### AudioGetSpectrum: this uses AudioListener.GetSpectrumData to get the range of spectrum triggers and assigns them to an array (_audioSpectrum). It also uses FFTWindow.Hamming for this
 ###### AudioTriggerSpectrum:
 ###### AudioScale:
