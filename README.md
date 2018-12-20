@@ -25,13 +25,16 @@
 ###### Audio was aquired from an empty game object called audio using AudioClip in Audio Source. The music samples included were sourced from no copywrite sources. https://www.youtube.com/watch?v=BuHIfIyT6MU. https://www.youtube.com/watch?v=0nI6qJeqFcc. https://www.youtube.com/watch?v=Ssvu2yncgWU.
 
 ### Algorithms:
-###### //used when geting time for lerping colour of object. Sourced from Unity Resources
-###### float lerp = Mathf.PingPong(Time.time, duration) / duration
-
+```c#
+//used when geting time for lerping colour of object. Sourced from Unity Resources
+float lerp = Mathf.PingPong(Time.time, duration) / duration
+```
+```c#
 ###### //set lerp to current. Incerement timer. assign currentScale to localScale. Does this until currentScale = targetScale. when this happens the beat is complete
 ###### _currentScale = Vector3.Lerp(_initialScale, _targetScale, _timer / timeToFullScaledBeat); 
 ###### _timer += Time.deltaTime; 
 ###### transform.localScale = _currentScale; 
+```
 
 # Video:
 [![YouTube](https://drive.google.com/file/d/1t4BIP6dKWDuKCLPwi1GO4g4ptg7nKpsu/view?usp=sharing)](https://youtu.be/tr_o0Tm0uiY)
