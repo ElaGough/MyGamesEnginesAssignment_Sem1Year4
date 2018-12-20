@@ -19,3 +19,7 @@
 
 ###### AudioColor: 
 ###### IGNORE. not used. This was used for testing purposes. This functionality was instead added to AudioScale.
+
+### Audio
+
+###### Audio was aquired from an empty game object called audio using AudioClip in Audio Source. The music samples included were sourced from no copywrite sources.
