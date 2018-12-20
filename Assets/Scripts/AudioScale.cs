@@ -7,7 +7,7 @@ using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;//needed unity.ui
 
-//used for Color.lerp. Needed to get Color from Image Script
+//used for Color.lerp. Needed to get Color from Image Script on current object
 [RequireComponent(typeof(Image))]
 
 //derive from AudioTriggerSpectrum
