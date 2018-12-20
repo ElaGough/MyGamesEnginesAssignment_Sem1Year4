@@ -1,0 +1,2 @@
+C:\Users\Ela\Documents\Documents\DT228\year4\GamesEngines1\NewAssignment\Assignment\obj\Debug\Assembly-CSharp.csprojAssemblyReference.cache
+C:\Users\Ela\Documents\Documents\DT228\year4\GamesEngines1\NewAssignment\Assignment\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
