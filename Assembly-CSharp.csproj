@@ -61,10 +61,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\Scripts\AudioSpectrum.cs" />
-    <Compile Include="Assets\Scripts\AudioSyncColor.cs" />
-    <Compile Include="Assets\Scripts\AudioSyncer.cs" />
-    <Compile Include="Assets\Scripts\AudioSyncScale.cs" />
+    <Compile Include="Assets\Scripts\AudioColor.cs" />
+    <Compile Include="Assets\Scripts\AudioGetSpectrum.cs" />
+    <Compile Include="Assets\Scripts\AudioScale.cs" />
+    <Compile Include="Assets\Scripts\AudioTriggerSpectrum.cs" />
     <Reference Include="UnityEditor.StandardEvents">
       <HintPath>C:/Users/Ela/Documents/Documents/DT228/year4/GamesEngines1/NewAssignment/Assignment/Library/ScriptAssemblies/UnityEditor.StandardEvents.dll</HintPath>
     </Reference>
