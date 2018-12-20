@@ -31,7 +31,8 @@ float lerp = Mathf.PingPong(Time.time, duration) / duration
 ```
 ```c#
 //set lerp to current. Incerement timer. assign currentScale to localScale. 
-//Does this until currentScale = targetScale. when this happens the beat is complete
+//Does this until currentScale = targetScale. When this happens the beat is complete
+//When the beat is complete _isBeat = false and object can scale back to restBeat
 _currentScale = Vector3.Lerp(_initialScale, _targetScale, _timer / timeToFullScaledBeat); 
 _timer += Time.deltaTime; 
 transform.localScale = _currentScale; 
