@@ -3,3 +3,5 @@
 ## Assignment is found in the AssignmentScene
 
 ##### this scales objects on Canvas so that they increase whenever specifications are met in the audio
+
+##### it uses lerp method to scale the objects
