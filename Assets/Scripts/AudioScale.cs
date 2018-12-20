@@ -10,7 +10,7 @@ using UnityEngine.UI;//needed unity.ui
 //used for Color.lerp. Needed to get Color from Image Script
 [RequireComponent(typeof(Image))]
 
-//derive from AudioSyncer
+//derive from AudioTriggerSpectrum
 public class AudioScale : AudioTriggerSpectrum
 {
     //scale values
