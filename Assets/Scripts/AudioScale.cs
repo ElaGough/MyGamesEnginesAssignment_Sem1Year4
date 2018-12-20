@@ -1,9 +1,13 @@
-﻿using System.Collections;
+﻿/* Ela Gough 
+ * Games Engines
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;//needed unity.ui
 
-
+//used for Color.lerp. Needed to get Color from Image Script
 [RequireComponent(typeof(Image))]
 
 //derive from AudioSyncer
