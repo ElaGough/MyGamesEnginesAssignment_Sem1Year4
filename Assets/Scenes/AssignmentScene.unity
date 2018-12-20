@@ -319,7 +319,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.2432805, g: 0.5433511, b: 0.6698113, a: 0.62352943}
   duration: 0.5
 --- !u!114 &193234778
 MonoBehaviour:
@@ -1028,7 +1028,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.24087441, g: 0.21586862, b: 0.5943396, a: 0.62352943}
   duration: 0.5
 --- !u!114 &538592836
 MonoBehaviour:
@@ -1293,7 +1293,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.30924883, g: 0.6981132, b: 0.24038802, a: 0.62352943}
   duration: 0.5
 --- !u!114 &699235058
 MonoBehaviour:
@@ -1653,7 +1653,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.2432805, g: 0.5433511, b: 0.6698113, a: 0.62352943}
   duration: 0.5
 --- !u!114 &852753310
 MonoBehaviour:
@@ -2115,7 +2115,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.30924883, g: 0.6981132, b: 0.24038802, a: 0.62352943}
   duration: 0.5
 --- !u!114 &938715755
 MonoBehaviour:
@@ -2205,7 +2205,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.57102364, g: 0.26855642, b: 0.6698113, a: 0.62352943}
   duration: 0.5
 --- !u!114 &1064931944
 MonoBehaviour:
@@ -2337,7 +2337,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.24328054, g: 0.7264151, b: 0.585989, a: 0.62352943}
   duration: 0.5
 --- !u!114 &1156244013
 MonoBehaviour:
@@ -2427,7 +2427,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.78768295, g: 0.8113208, b: 0.21813813, a: 0.62352943}
   duration: 0.5
 --- !u!114 &1168755356
 MonoBehaviour:
@@ -2763,7 +2763,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.78768295, g: 0.8113208, b: 0.21813813, a: 0.62352943}
   duration: 0.5
 --- !u!114 &1427832598
 MonoBehaviour:
@@ -3165,7 +3165,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.24087441, g: 0.21586862, b: 0.5943396, a: 0.62352943}
   duration: 0.5
 --- !u!114 &1712540437
 MonoBehaviour:
@@ -3435,7 +3435,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.7924528, g: 0.5299726, b: 0.23549305, a: 0.62352943}
   duration: 0.5
 --- !u!114 &1782072135
 MonoBehaviour:
@@ -3525,7 +3525,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.57102364, g: 0.26855642, b: 0.6698113, a: 0.62352943}
   duration: 0.5
 --- !u!114 &1859539518
 MonoBehaviour:
@@ -3705,7 +3705,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.24328054, g: 0.7264151, b: 0.585989, a: 0.62352943}
   duration: 0.5
 --- !u!114 &1974905323
 MonoBehaviour:
@@ -3885,7 +3885,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.7924528, g: 0.5299726, b: 0.23549305, a: 0.62352943}
   duration: 0.5
 --- !u!114 &2025380107
 MonoBehaviour:
@@ -4018,7 +4018,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.7075472, g: 0.15018693, b: 0.16763102, a: 0.62352943}
   duration: 0.5
 --- !u!114 &2035287966
 MonoBehaviour:
@@ -4108,7 +4108,7 @@ MonoBehaviour:
   beatScale: {x: 2, y: 8, z: 1}
   restScale: {x: 2, y: 0.2, z: 1}
   beatColor: {r: 1, g: 1, b: 1, a: 0.7764706}
-  restColor: {r: 0.6627451, g: 0.35686275, b: 0.6131446, a: 0.62352943}
+  restColor: {r: 0.7075472, g: 0.15018693, b: 0.16763102, a: 0.62352943}
   duration: 0.5
 --- !u!114 &2052175784
 MonoBehaviour:
