@@ -13,9 +13,9 @@ public class AudioScale : AudioTriggerSpectrum
     public Vector3 restScale;   //after beat is done
 
     //colour values
-    public Color beatColor;
-    public Color restColor;
-    public float duration = 1.0f;
+    public Color beatColor;     //when beat occors
+    public Color restColor;     //after beat is done
+    public float duration = 1.0f; //duration used for lerping between colours
 
 
 
