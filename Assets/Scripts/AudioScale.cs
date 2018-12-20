@@ -54,6 +54,8 @@ public class AudioScale : AudioTriggerSpectrum
     public override void Beat()
     {
         base.Beat();
+
+        //starts Scale Coroutine again
         StopCoroutine("Scale");
         StartCoroutine("Scale", beatScale);
     }//end override on beat
@@ -84,10 +86,13 @@ public class AudioScale : AudioTriggerSpectrum
 
             yield return null;
         }
+
         //lerps color to beatColor
         float lerp = Mathf.PingPong(Time.time, duration) / duration;
         this.GetComponent<Image>().color = Color.Lerp(this.GetComponent<Image>().color, beatColor, lerp*10);
 
+
         _isBeat = false; //beat is complete. now lerp to restScale in SetTriggerSpectrum
     }//end movetoscale
+
 }
