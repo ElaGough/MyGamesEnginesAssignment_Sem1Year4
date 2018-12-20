@@ -34,4 +34,4 @@
 ###### transform.localScale = _currentScale; 
 
 # Video:
-[![YouTube](https://drive.google.com/file/d/1t4BIP6dKWDuKCLPwi1GO4g4ptg7nKpsu/view?usp=sharing)](https://youtu.be/tr_o0Tm0uiY)
+[![YouTube](http://www.stickpng.com/assets/images/580b57fcd9996e24bc43c545.png)](https://youtu.be/tr_o0Tm0uiY)
