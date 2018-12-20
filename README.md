@@ -32,3 +32,5 @@
 ###### _currentScale = Vector3.Lerp(_initialScale, _targetScale, _timer / timeToFullScaledBeat); 
 ###### _timer += Time.deltaTime; 
 ###### transform.localScale = _currentScale; 
+
+# Video:
