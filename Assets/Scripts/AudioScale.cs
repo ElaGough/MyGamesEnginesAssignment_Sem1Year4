@@ -43,7 +43,7 @@ public class AudioScale : AudioTriggerSpectrum
 
 
 
-    // overrides virtual SetTriggerSpectrum (checks if currently in a beat)
+    // overrides virtual SetTriggerSpectrum (checks if currently in a beat. If not then lerps back to restBeat)
     public override void SetTriggerSpectrum () {
         base.SetTriggerSpectrum();
 
