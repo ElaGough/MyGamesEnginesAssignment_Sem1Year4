@@ -28,7 +28,7 @@
 ###### //used when geting time for lerping colour of object. Sourced from Unity Resources
 ###### float lerp = Mathf.PingPong(Time.time, duration) / duration
 
-###### //set lerp to current. Incerement timer. assign currentScale to localScale.
+###### //set lerp to current. Incerement timer. assign currentScale to localScale. Does this until currentScale = targetScale. when this happens the beat is complete
 ###### _currentScale = Vector3.Lerp(_initialScale, _targetScale, _timer / timeToFullScaledBeat); 
 ###### _timer += Time.deltaTime; 
 ###### transform.localScale = _currentScale; 
