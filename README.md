@@ -22,7 +22,7 @@
 
 ### Audio
 
-###### Audio was aquired from an empty game object called audio using AudioClip in Audio Source. The music samples included were sourced from no copywrite sources. https://www.youtube.com/watch?v=BuHIfIyT6MU. https://www.youtube.com/watch?v=0nI6qJeqFcc. https://www.youtube.com/watch?v=Ssvu2yncgWU.
+###### Audio was aquired from an empty game object called audio using AudioClip in Audio Source. The music samples included were sourced from [no copywrite] sources on YouTube. https://www.youtube.com/watch?v=BuHIfIyT6MU. https://www.youtube.com/watch?v=0nI6qJeqFcc. https://www.youtube.com/watch?v=Ssvu2yncgWU.
 
 ### Algorithms:
 ```c#
