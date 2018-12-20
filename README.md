@@ -34,4 +34,4 @@
 ###### transform.localScale = _currentScale; 
 
 # Video:
-[![YouTube](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+[![YouTube](http://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://youtu.be/tr_o0Tm0uiY)
