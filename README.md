@@ -6,4 +6,7 @@
 
 ##### it uses lerp method to scale the objects
 
-### three main scripts are used:
+### three main C# scripts are used:
+###### AudioGetSpectrum:
+###### AudioTriggerSpectrum:
+###### AudioScale:
