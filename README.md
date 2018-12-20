@@ -38,6 +38,6 @@ transform.localScale = _currentScale;
 ```
 
 # Video:
-[![YouTube](https://drive.google.com/file/d/1t4BIP6dKWDuKCLPwi1GO4g4ptg7nKpsu/view?usp=sharing)](https://youtu.be/tr_o0Tm0uiY)#
+[![YouTube](https://drive.google.com/file/d/1t4BIP6dKWDuKCLPwi1GO4g4ptg7nKpsu/view?usp=sharing)](https://youtu.be/tr_o0Tm0uiY)
 
 ###### https://www.youtube.com/watch?v=tr_o0Tm0uiY&feature=youtu.be
