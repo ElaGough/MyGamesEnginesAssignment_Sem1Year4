@@ -31,23 +31,6 @@ public class AudioScale : AudioTriggerSpectrum
 
 
 
-    /*void FixedUpdate()
-    {
-        if (_isBeat)
-        {
-            float lerp = Mathf.PingPong(Time.time, duration) / duration;
-            this.GetComponent<Image>().color = Color.Lerp(restColor, beatColor, lerp);
-        }
-        if (!_isBeat)
-        {
-            float lerp = Mathf.PingPong(Time.time, duration) / duration;
-            this.GetComponent<Image>().color = Color.Lerp(beatColor, restColor, lerp);
-        }
-
-    }*/
-
-
-
     // overrides virtual SetTriggerSpectrum (checks if currently in a beat. If not then lerps back to restBeat)
     public override void SetTriggerSpectrum () {
         base.SetTriggerSpectrum();
